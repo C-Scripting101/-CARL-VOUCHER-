@@ -10,4 +10,4 @@ git clone https://github.com/C-scripting101/CARL-VOUCHER.git
 
 cd CARL-VOUCHER
 
-python "CARL-VOUCHER".py
+python "C4RL-V0UCH3R".py
